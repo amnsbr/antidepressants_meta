@@ -1,0 +1,65 @@
+
+Starting with Contrast_exc_Ketamine_increased! 
+
+Contrast_exc_Ketamine_increased: 14 experiments; 231 unique subjects (average of 16.5 per experiment) 
+
+
+Cluster 1: 211 voxel [Center: -40/28/30] 
+Cheng_2016            	0.415	0.197	19.84	84.47	(38)
+Kennedy_2001          	0.523	0.248	27.19	87.70	(13)
+Kohn_2008             	0.016	0.007	0.89	20.88	(11)
+Komulainen_2018_2021  	0.196	0.093	10.84	90.40	(14)
+Mayberg_2000          	0.339	0.161	17.65	64.19	(7)
+Robertson_2007        	0.003	0.001	0.15	5.51	(10)
+Williams_2021         	0.455	0.216	23.44	77.92	(19)
+
+
+all              	1.947	0.923	100.00	 
+untreated<treated	1.947	0.923	100.00	 
+
+
+Cluster 2: 50 voxel [Center: -50/28/18] 
+Kohn_2008             	0.226	0.452	48.80	68.35	(11)
+Komulainen_2018_2021  	0.003	0.007	0.74	4.44	(14)
+Mayberg_2000          	0.021	0.042	4.74	25.62	(7)
+Robertson_2007        	0.209	0.417	45.39	70.28	(10)
+Williams_2021         	0.001	0.002	0.26	2.45	(19)
+
+
+all              	0.460	0.920	100.00	 
+untreated<treated	0.460	0.920	100.00	 
+
+
+Cluster 3: 41 voxel [Center: 44/26/24] 
+Cheng_2016            	0.103	0.250	21.20	78.81	(38)
+Mayberg_2000          	0.103	0.252	21.15	43.62	(7)
+Bremner_2007          	0.049	0.120	10.21	50.66	(13)
+Keedwell_2008         	0.079	0.192	16.15	62.31	(12)
+Williams_2021         	0.152	0.371	31.25	66.31	(19)
+
+
+all              	0.486	1.185	100.00	 
+untreated<treated	0.486	1.185	100.00	 
+
+
+Cluster 4: 21 voxel [Center: -46/10/34] 
+Cheng_2016            	0.147	0.701	71.45	89.65	(38)
+Kennedy_2001          	0.002	0.008	0.84	3.65	(13)
+Mayberg_2000          	0.057	0.270	27.50	54.12	(7)
+Williams_2021         	0.000	0.002	0.20	1.12	(19)
+
+
+all              	0.206	0.981	100.00	 
+untreated<treated	0.206	0.981	100.00	 
+
+
+Cluster 5: 21 voxel [Center: 8/54/30] 
+Cheng_2016            	0.080	0.379	25.47	58.36	(38)
+Wang_2014_2017        	0.099	0.473	31.65	53.00	(17)
+Wang_2012             	0.134	0.640	42.87	46.63	(18)
+
+
+all              	0.313	1.492	100.00	 
+untreated<treated	0.313	1.492	100.00	 
+
+Done with TFCE!

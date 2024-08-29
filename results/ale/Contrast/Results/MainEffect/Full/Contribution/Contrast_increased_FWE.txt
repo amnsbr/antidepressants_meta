@@ -1,0 +1,6 @@
+
+Starting with Contrast_increased! 
+
+Contrast_increased: 20 experiments; 341 unique subjects (average of 17.1 per experiment) 
+
+Done with FWE!

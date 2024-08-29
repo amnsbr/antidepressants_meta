@@ -1,0 +1,63 @@
+
+Starting with Contrast_resp50_increased! 
+
+Contrast_resp50_increased: 12 experiments; 193 unique subjects (average of 16.1 per experiment) 
+
+
+Cluster 1: 164 voxel [Center: -38/28/30] 
+Cheng_2016                   	0.389	0.237	23.94	84.49	(38)
+Kennedy_2001                 	0.458	0.279	30.94	87.79	(13)
+Kohn_2008                    	0.006	0.004	0.43	8.95	(11)
+Mayberg_2000                 	0.283	0.172	19.01	65.24	(7)
+Williams_2021                	0.380	0.232	25.59	78.82	(19)
+
+
+all              	1.517	0.925	100.00	 
+untreated<treated	1.517	0.925	100.00	 
+
+
+Cluster 2: 82 voxel [Center: 44/26/24] 
+Cheng_2016                   	0.204	0.248	22.75	83.43	(38)
+Mayberg_2000                 	0.185	0.226	20.30	48.15	(7)
+Bremner_2007                 	0.100	0.122	11.21	63.79	(13)
+Keedwell_2008                	0.150	0.183	16.64	63.22	(12)
+Williams_2021                	0.266	0.324	29.06	70.84	(19)
+
+
+all              	0.906	1.105	100.00	 
+untreated<treated	0.906	1.105	100.00	 
+
+
+Cluster 3: 32 voxel [Center: -50/28/18] 
+Kohn_2008                    	0.158	0.493	49.67	67.93	(11)
+Mayberg_2000                 	0.010	0.033	3.40	17.61	(7)
+Robertson_2007               	0.148	0.463	46.76	69.85	(10)
+Williams_2021                	0.000	0.001	0.13	0.91	(19)
+
+
+all              	0.317	0.990	100.00	 
+untreated<treated	0.317	0.990	100.00	 
+
+
+Cluster 4: 21 voxel [Center: -46/10/34] 
+Cheng_2016                   	0.147	0.701	71.45	89.65	(38)
+Kennedy_2001                 	0.002	0.008	0.84	3.65	(13)
+Mayberg_2000                 	0.057	0.270	27.50	54.12	(7)
+Williams_2021                	0.000	0.002	0.20	1.12	(19)
+
+
+all              	0.206	0.981	100.00	 
+untreated<treated	0.206	0.981	100.00	 
+
+
+Cluster 5: 10 voxel [Center: -47/-48/42] 
+Cheng_2016                   	0.080	0.798	51.08	55.49	(38)
+Kennedy_2001                 	0.001	0.013	0.79	2.13	(13)
+Mayberg_2000                 	0.005	0.049	3.07	6.54	(7)
+Williams_2021                	0.070	0.704	45.05	49.00	(19)
+
+
+all              	0.156	1.563	100.00	 
+untreated<treated	0.156	1.563	100.00	 
+
+Done with TFCE!

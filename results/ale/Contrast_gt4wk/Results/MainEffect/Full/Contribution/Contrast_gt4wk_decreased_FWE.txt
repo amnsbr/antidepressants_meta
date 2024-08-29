@@ -1,0 +1,5 @@
+
+Starting with Contrast_gt4wk_decreased! 
+
+Contrast_gt4wk_decreased: 14 experiments; 268 unique subjects (average of 19.1 per experiment) 
+No significant clusters in FWE!

@@ -1,0 +1,12 @@
+/data/group/cng/Projects/Amin/antidepressants_ale/scripts/macm/../../results/macm analysis.xlsx coordinates.xlsx
+enter main
+MACM : 54 experiments; average of 15.41 subjects per experiment
+MACM - illustrate Foci
+MACM - computing ALE and null PDF
+MACM - computing p-values & TFCE
+MACM - simulating null
+MACM - inference and printing
+Min p-value for FWE:0.0
+Min p-value for cFWE:0.0
+Min p-value for TFCE:0.0
+MACM - done!

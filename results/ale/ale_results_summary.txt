@@ -1,0 +1,199 @@
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All analysis.xlsx coordinates.xlsx
+enter main
+All : 30 experiments; average of 22.03 subjects per experiment
+All - illustrate Foci
+All - computing ALE and null PDF
+All - computing p-values & TFCE
+All - simulating null
+All - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.3874
+Min p-value for TFCE:1.0
+All - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_exc_Ketamine analysis.xlsx coordinates.xlsx
+enter main
+All_exc_Ketamine : 23 experiments; average of 22.74 subjects per experiment
+All_exc_Ketamine - illustrate Foci
+All_exc_Ketamine - computing ALE and null PDF
+All_exc_Ketamine - computing p-values & TFCE
+All_exc_Ketamine - simulating null
+All_exc_Ketamine - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.4864
+Min p-value for TFCE:1.0
+All_exc_Ketamine - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_gt4wk analysis.xlsx coordinates.xlsx
+enter main
+All_gt4wk : 20 experiments; average of 21.80 subjects per experiment
+All_gt4wk - illustrate Foci
+All_gt4wk - computing ALE and null PDF
+All_gt4wk - computing p-values & TFCE
+All_gt4wk - simulating null
+All_gt4wk - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.4721
+Min p-value for TFCE:1.0
+All_gt4wk - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_prepost analysis.xlsx coordinates.xlsx
+enter main
+All_prepost : 24 experiments; average of 19.67 subjects per experiment
+All_prepost - illustrate Foci
+All_prepost - computing ALE and null PDF
+All_prepost - computing p-values & TFCE
+All_prepost - simulating null
+All_prepost - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.2943
+Min p-value for TFCE:1.0
+All_prepost - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_resp50 analysis.xlsx coordinates.xlsx
+enter main
+All_resp50 : 19 experiments; average of 19.47 subjects per experiment
+All_resp50 - illustrate Foci
+All_resp50 - computing ALE and null PDF
+All_resp50 - computing p-values & TFCE
+All_resp50 - simulating null
+All_resp50 - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.6149
+Min p-value for TFCE:1.0
+All_resp50 - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_rest analysis.xlsx coordinates.xlsx
+enter main
+All_rest : 12 experiments; average of 19.33 subjects per experiment
+All_rest - illustrate Foci
+All_rest - computing ALE and null PDF
+All_rest - computing p-values & TFCE
+All_rest - simulating null
+All_rest - inference and printing
+Min p-value for FWE:0.0426
+Min p-value for cFWE:0.0523
+Min p-value for TFCE:0.0062
+All_rest - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/All_task analysis.xlsx coordinates.xlsx
+enter main
+All_task : 19 experiments; average of 23.53 subjects per experiment
+All_task - illustrate Foci
+All_task - computing ALE and null PDF
+All_task - computing p-values & TFCE
+All_task - simulating null
+All_task - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.9709
+Min p-value for TFCE:1.0
+All_task - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/Contrast analysis.xlsx coordinates.xlsx
+enter main
+Contrast_increased : 20 experiments; average of 17.05 subjects per experiment
+Contrast_increased - illustrate Foci
+Contrast_increased - computing ALE and null PDF
+Contrast_increased - computing p-values & TFCE
+Contrast_increased - simulating null
+Contrast_increased - inference and printing
+Min p-value for FWE:0.0331
+Min p-value for cFWE:0.0049
+Min p-value for TFCE:0.0012
+Contrast_increased - done!
+enter main
+Contrast_decreased : 21 experiments; average of 19.43 subjects per experiment
+Contrast_decreased - illustrate Foci
+Contrast_decreased - computing ALE and null PDF
+Contrast_decreased - computing p-values & TFCE
+Contrast_decreased - simulating null
+Contrast_decreased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.6151
+Min p-value for TFCE:1.0
+Contrast_decreased - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/Contrast_exc_Ketamine analysis.xlsx coordinates.xlsx
+enter main
+Contrast_exc_Ketamine_increased : 14 experiments; average of 16.50 subjects per experiment
+Contrast_exc_Ketamine_increased - illustrate Foci
+Contrast_exc_Ketamine_increased - computing ALE and null PDF
+Contrast_exc_Ketamine_increased - computing p-values & TFCE
+Contrast_exc_Ketamine_increased - simulating null
+Contrast_exc_Ketamine_increased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.0243
+Min p-value for TFCE:0.0042
+Contrast_exc_Ketamine_increased - done!
+enter main
+Contrast_exc_Ketamine_decreased : 16 experiments; average of 19.81 subjects per experiment
+Contrast_exc_Ketamine_decreased - illustrate Foci
+Contrast_exc_Ketamine_decreased - computing ALE and null PDF
+Contrast_exc_Ketamine_decreased - computing p-values & TFCE
+Contrast_exc_Ketamine_decreased - simulating null
+Contrast_exc_Ketamine_decreased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.4647
+Min p-value for TFCE:1.0
+Contrast_exc_Ketamine_decreased - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/Contrast_gt4wk analysis.xlsx coordinates.xlsx
+enter main
+Contrast_gt4wk_increased : 12 experiments; average of 16.50 subjects per experiment
+Contrast_gt4wk_increased - illustrate Foci
+Contrast_gt4wk_increased - computing ALE and null PDF
+Contrast_gt4wk_increased - computing p-values & TFCE
+Contrast_gt4wk_increased - simulating null
+Contrast_gt4wk_increased - inference and printing
+Min p-value for FWE:0.0082
+Min p-value for cFWE:0.0101
+Min p-value for TFCE:0.003
+Contrast_gt4wk_increased - done!
+enter main
+Contrast_gt4wk_decreased : 14 experiments; average of 19.14 subjects per experiment
+Contrast_gt4wk_decreased - illustrate Foci
+Contrast_gt4wk_decreased - computing ALE and null PDF
+Contrast_gt4wk_decreased - computing p-values & TFCE
+Contrast_gt4wk_decreased - simulating null
+Contrast_gt4wk_decreased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.1891
+Min p-value for TFCE:1.0
+Contrast_gt4wk_decreased - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/Contrast_prepost analysis.xlsx coordinates.xlsx
+enter main
+Contrast_prepost_increased : 18 experiments; average of 17.11 subjects per experiment
+Contrast_prepost_increased - illustrate Foci
+Contrast_prepost_increased - computing ALE and null PDF
+Contrast_prepost_increased - computing p-values & TFCE
+Contrast_prepost_increased - simulating null
+Contrast_prepost_increased - inference and printing
+Min p-value for FWE:0.0171
+Min p-value for cFWE:0.0042
+Min p-value for TFCE:0.0002
+Contrast_prepost_increased - done!
+enter main
+Contrast_prepost_decreased : 20 experiments; average of 19.70 subjects per experiment
+Contrast_prepost_decreased - illustrate Foci
+Contrast_prepost_decreased - computing ALE and null PDF
+Contrast_prepost_decreased - computing p-values & TFCE
+Contrast_prepost_decreased - simulating null
+Contrast_prepost_decreased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.4692
+Min p-value for TFCE:1.0
+Contrast_prepost_decreased - done!
+/home/asaberi/antidepressants_ale/scripts/ale/../../results/ale/Contrast_resp50 analysis.xlsx coordinates.xlsx
+enter main
+Contrast_resp50_increased : 12 experiments; average of 16.08 subjects per experiment
+Contrast_resp50_increased - illustrate Foci
+Contrast_resp50_increased - computing ALE and null PDF
+Contrast_resp50_increased - computing p-values & TFCE
+Contrast_resp50_increased - simulating null
+Contrast_resp50_increased - inference and printing
+Min p-value for FWE:0.0361
+Min p-value for cFWE:0.0076
+Min p-value for TFCE:0.0049
+Contrast_resp50_increased - done!
+enter main
+Contrast_resp50_decreased : 15 experiments; average of 19.80 subjects per experiment
+Contrast_resp50_decreased - illustrate Foci
+Contrast_resp50_decreased - computing ALE and null PDF
+Contrast_resp50_decreased - computing p-values & TFCE
+Contrast_resp50_decreased - simulating null
+Contrast_resp50_decreased - inference and printing
+Min p-value for FWE:1.0
+Min p-value for cFWE:0.3576
+Min p-value for TFCE:1.0
+Contrast_resp50_decreased - done!

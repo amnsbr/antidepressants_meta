@@ -1,0 +1,5 @@
+
+Starting with All! 
+
+All: 30 experiments; 661 unique subjects (average of 22.0 per experiment) 
+No significant clusters in TFCE!

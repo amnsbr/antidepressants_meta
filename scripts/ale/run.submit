@@ -1,0 +1,17 @@
+# The environment
+universe       = vanilla
+getenv         = True
+request_cpus   = 6
+request_memory = 12G
+
+
+# Execution
+initialdir = $(ENV(PROJECT_DIR))
+executable = /bin/bash
+
+# Job
+arguments = scripts/ale/run.sh
+log       = logs/$(Cluster).$(Process).log
+output    = logs/$(Cluster).$(Process).out
+error     = logs/$(Cluster).$(Process).err
+Queue

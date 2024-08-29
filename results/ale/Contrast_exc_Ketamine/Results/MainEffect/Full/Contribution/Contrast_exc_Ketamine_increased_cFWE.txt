@@ -1,0 +1,31 @@
+
+Starting with Contrast_exc_Ketamine_increased! 
+
+Contrast_exc_Ketamine_increased: 14 experiments; 231 unique subjects (average of 16.5 per experiment) 
+
+
+Cluster 1: 106 voxel [Center: 44/26/24] 
+Cheng_2016            	0.251	0.237	22.34	83.43	(38)
+Mayberg_2000          	0.227	0.214	19.99	50.25	(7)
+Bremner_2007          	0.141	0.133	12.75	78.90	(13)
+Keedwell_2008         	0.184	0.173	16.26	63.22	(12)
+Williams_2021         	0.326	0.308	28.61	70.84	(19)
+
+
+all              	1.129	1.065	100.00	 
+untreated<treated	1.129	1.065	100.00	 
+
+
+Cluster 2: 95 voxel [Center: -38/30/30] 
+Cheng_2016            	0.286	0.301	27.51	80.70	(38)
+Kennedy_2001          	0.238	0.251	23.48	69.99	(13)
+Kohn_2008             	0.003	0.004	0.36	4.20	(11)
+Komulainen_2018_2021  	0.064	0.068	6.77	51.23	(14)
+Mayberg_2000          	0.165	0.174	16.49	48.22	(7)
+Williams_2021         	0.249	0.262	25.36	77.65	(19)
+
+
+all              	1.006	1.059	100.00	 
+untreated<treated	1.006	1.059	100.00	 
+
+Done with cFWE!

@@ -1,0 +1,16 @@
+
+Starting with Contrast_gt4wk_increased! 
+
+Contrast_gt4wk_increased: 12 experiments; 198 unique subjects (average of 16.5 per experiment) 
+
+
+Cluster 1: 6 voxel [Center: 8/54/30] 
+Cheng_2016      	0.023	0.379	23.09	43.52	(38)
+Wang_2014_2017  	0.032	0.532	32.67	44.67	(17)
+Wang_2012       	0.043	0.721	44.23	46.51	(18)
+
+
+all              	0.098	1.632	100.00	 
+untreated<treated	0.098	1.632	100.00	 
+
+Done with FWE!

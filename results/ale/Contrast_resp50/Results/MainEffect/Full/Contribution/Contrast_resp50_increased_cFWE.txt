@@ -1,0 +1,29 @@
+
+Starting with Contrast_resp50_increased! 
+
+Contrast_resp50_increased: 12 experiments; 193 unique subjects (average of 16.1 per experiment) 
+
+
+Cluster 1: 123 voxel [Center: -48/-44/40] 
+Cheng_2016                   	0.669	0.544	48.86	81.48	(38)
+Kennedy_2001                 	0.243	0.198	18.67	70.97	(13)
+Mayberg_2000                 	0.077	0.062	5.94	33.97	(7)
+Williams_2021                	0.370	0.301	26.53	56.00	(19)
+
+
+all              	1.359	1.105	100.00	 
+untreated<treated	1.359	1.105	100.00	 
+
+
+Cluster 2: 123 voxel [Center: 44/26/24] 
+Cheng_2016                   	0.266	0.216	20.64	83.43	(38)
+Mayberg_2000                 	0.264	0.215	20.61	50.92	(7)
+Bremner_2007                 	0.163	0.132	13.06	78.90	(13)
+Keedwell_2008                	0.215	0.174	16.86	72.00	(12)
+Williams_2021                	0.371	0.302	28.78	71.85	(19)
+
+
+all              	1.279	1.040	100.00	 
+untreated<treated	1.279	1.040	100.00	 
+
+Done with cFWE!

@@ -1,0 +1,5 @@
+
+Starting with All_task! 
+
+All_task: 19 experiments; 447 unique subjects (average of 23.5 per experiment) 
+No significant clusters in FWE!

@@ -1,0 +1,12 @@
+venv/
+logs/
+.ipynb_checkpoints/
+.ruff_cache/
+__pycache__/
+set_env.py
+BrainMap_dump_Feb2024_mask-Grey10.pkl.gz
+# large files
+*_spin_n-*.npz
+*_variograms.npz
+null_fcs.npy
+*.xlsx.pickle

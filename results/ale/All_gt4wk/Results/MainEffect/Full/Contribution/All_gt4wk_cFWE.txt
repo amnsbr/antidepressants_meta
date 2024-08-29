@@ -1,0 +1,5 @@
+
+Starting with All_gt4wk! 
+
+All_gt4wk: 20 experiments; 436 unique subjects (average of 21.8 per experiment) 
+No significant clusters in cFWE!

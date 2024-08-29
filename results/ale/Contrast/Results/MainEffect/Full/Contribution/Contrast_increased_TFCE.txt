@@ -1,0 +1,20 @@
+
+Starting with Contrast_increased! 
+
+Contrast_increased: 20 experiments; 341 unique subjects (average of 17.1 per experiment) 
+
+
+Cluster 1: 158 voxel [Center: -38/30/30] 
+Cheng_2016                   	0.473	0.300	23.23	68.04	(38)
+Kennedy_2001                 	0.328	0.208	17.01	63.47	(13)
+Kohn_2008                    	0.005	0.003	0.31	4.34	(11)
+Komulainen_2018_2021         	0.072	0.046	4.29	50.31	(14)
+Li_2015                      	0.489	0.309	23.88	67.43	(32)
+Mayberg_2000                 	0.259	0.164	13.65	55.60	(7)
+Williams_2021                	0.318	0.202	17.57	75.62	(19)
+
+
+all              	1.946	1.232	100.00	 
+untreated<treated	1.946	1.232	100.00	 
+
+Done with TFCE!
